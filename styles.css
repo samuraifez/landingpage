@@ -1,0 +1,20 @@
+.flex-container {
+    display: flex;
+}
+
+.flex-container div {
+    flex: 1;
+}
+
+.header {
+    color: white;
+}
+
+.b1 {
+    background-color: darkslateblue;
+}
+
+.b3 {
+    background-color: gray;
+}
+
